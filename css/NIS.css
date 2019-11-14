@@ -1,0 +1,123 @@
+.head {
+    margin-top: 5px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.head img {
+    width: 150px;
+    
+}
+.head ul {
+    text-align: right;
+    padding-top: 10px;
+}
+.head ul li {
+    display: inline;
+    margin-right: 30px;
+    font-size: 13px;    
+}
+main p {
+    text-align: center;
+}
+.arn {
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #84be80;
+    color: white;
+    width: 30%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.nci {
+        padding: 20px;
+    border-radius: 20px;
+    background-color: #84be80;
+    color: white;
+    width: 45%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.iit {
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #71ae42;
+    color: white;
+    width: 30%;    
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.info {
+    background-color: #cec2ab;
+    height: 50px;
+    margin-bottom: 20px;
+}
+.info1 {
+    color: #fff;
+    padding-right: 60px;   
+   padding-top: 20px;
+   /* background-color: #fff; */
+}
+.wht {
+    color: white;
+}
+.ves {
+    height: 150px;
+    background-color: #319650;
+    padding-top: 60px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.ves p {
+    color: white;
+    font-size: 20px;
+    display: inline;
+}
+.ves_btn {
+    margin-left: 200px;  
+    color: black;
+}
+.pvr {
+    margin-bottom: 30px;
+}
+.pvr img {
+    width: 350px;
+}
+.pvr p {
+    text-align: left;
+}
+.zcpl {
+    margin-bottom: 40px;
+}
+.cu1 {
+    margin-top: 20px;
+}
+.cu1 h3 {
+    font-size: 18px;
+    font-weight: 100;
+}
+.cu1 a h3 {
+    font-size: 14px;
+}
+.cu1 p {
+    opacity: 0.5;
+    line-height: 25px;
+}
+.zcpl h2 {
+text-align: center;
+font-weight: 700;
+}
+footer {
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+footer h3 {
+    color: white;
+}
+footer p {
+    color: white;
+}
+footer li {
+    list-style-type: none;
+}
